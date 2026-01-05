@@ -78,7 +78,7 @@ VALUES
 SELECT
     *
 FROM
-    "CREDIT_PURCHASE"
+    "CREDIT_PURCHASE";
 INSERT INTO
     "CREDIT_PURCHASE" (
         user_id,
