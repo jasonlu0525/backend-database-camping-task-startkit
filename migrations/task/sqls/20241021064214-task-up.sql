@@ -697,7 +697,7 @@ WHERE
                 select
                     id
                 from
-                    " USER "
+                    "USER"
                 where
                     email = 'lee2000@hexschooltest.io'
             )
