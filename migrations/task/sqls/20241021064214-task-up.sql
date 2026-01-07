@@ -683,7 +683,7 @@ WHERE
         SELECT
             id
         FROM
-            " USER "
+            "USER"
         WHERE
             email = 'wXlTq@hexschooltest.io'
     )
@@ -691,7 +691,7 @@ WHERE
         select
             id
         from
-            " COURSE "
+            "COURSE"
         where
             user_id = (
                 select
